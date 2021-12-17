@@ -3,31 +3,35 @@
 Индивидуальное задание:
 Определить и вывести на экран всех студентов, чей рейтинг попадает в последнюю квартиль распределения по рейтингам.
 Описание проекта 
-1. Создаем JsonDataReader.py для чтения файла формата .json
+1. Формат Входного файла 
+![image](https://user-images.githubusercontent.com/38436717/146556449-8bdd3e42-5081-408a-9396-77fd01e03b31.png)
+
+
+2. Создаем JsonDataReader.py для чтения файла формата .json
 
 
 ![image](https://user-images.githubusercontent.com/38436717/146553899-31e078ec-c57a-481e-97d5-21a7d0362a50.png)
 
 
-2. Расчитываем последнюю квартиль 
+3. Расчитываем последнюю квартиль 
 
 
 ![image](https://user-images.githubusercontent.com/38436717/146553977-ecda33e8-cbf5-4c1d-a413-44f63bf3bffd.png)
 
 
-3. Запускаем проект 
+4. Запускаем проект 
 
 
 ![image](https://user-images.githubusercontent.com/38436717/146554181-821f4f10-2273-43b3-87e3-009fb900423b.png)
 
 
-4. Протестируем проект
+5. Протестируем проект
 
 
 ![image](https://user-images.githubusercontent.com/38436717/146554381-cb1a8c6a-93b3-4d1c-a1ea-f829b5b9e608.png)
 
 
-5. Построим UML диаграмму классов 
+6. Построим UML диаграмму классов 
 
 
 ![image](https://user-images.githubusercontent.com/38436717/146555330-1eded856-d238-421e-adb4-bb12dd92ba85.png)
